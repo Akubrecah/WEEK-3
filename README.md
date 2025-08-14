@@ -3,7 +3,8 @@
  ## Overview
  This Python application determines an item's final cost after a discount is applied.  A user interface for entering price and discount values is part of the solution, as is a function that only applies a discount if it is 20% or more.
 
- ## Function for Implementation ###: `calculate_discount(price, discount_percent)`
+ ## Function for Implementation
+ ##: `calculate_discount(price, discount_percent)`
  **Parameters**:
    - `price`: The item's initial price (float)
    - `discount_percent`: Discount percentage (float)
